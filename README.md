@@ -1,1 +1,1 @@
-# PrimeNumbers
+# PrimeNumbers Wylder Primtzahlfindender Algorithmus
